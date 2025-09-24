@@ -149,8 +149,7 @@ a:hover {
 /* SECTIONS */
 
 section {
-  padding-top: 4vh;
-  height: 96vh;
+  height: 50vh;
   margin: 0 10rem;
   box-sizing: border-box;
   min-height: fit-content;
@@ -166,7 +165,7 @@ section {
   display: flex;
   justify-content: center;
   gap: 5rem;
-  height: 80vh;
+  height: 85vh;
 }
 
 .section__pic-container {
@@ -344,7 +343,7 @@ section {
 
 article {
   display: flex;
-  width: 10rem;
+  width: 12rem;
   justify-content: space-around;
   gap: 0.5rem;
 }
@@ -386,7 +385,7 @@ article .icon {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  height: 70vh;
+  height: 50vh;
 }
 
 .contact-info-upper-container {
